@@ -6,13 +6,13 @@
 
 
 
-![Inter-nodes](https://github.com/blairtyx/EC601/blob/master/team_project/Sprint-reports/img/s2-Inter-nodes.png)
+![Inter-nodes](https://github.com/blairtyx/BATS-2/blob/main/Sprint-reports/img/s2-Inter-nodes.png)
 
 
 
 
 
-![Side-notes](https://github.com/blairtyx/EC601/blob/master/team_project/Sprint-reports/img/s2-side-nodes.png)
+![Side-notes](https://github.com/blairtyx/BATS-2/blob/main/Sprint-reports/img/s2-side-nodes.png)
 
 
 
